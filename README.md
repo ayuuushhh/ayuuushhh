@@ -5,4 +5,4 @@
 🌱 Always learning about **time-series modelling** & **ML infra**  
 💬 Ask me about **Metaflow, MLflow, and time-series forecasting**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ayuuushhh/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/ayuuushhh/])
