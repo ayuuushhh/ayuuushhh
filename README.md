@@ -1,6 +1,6 @@
 ### Hi there 👋🏼
 
-🚀 Data Scientist | Software Engineer | AI Innovator  
+🚀 Data Scientist | ML Engineer | AI Innovator  
 🔭 Currently exploring **Time Series Models** & **scalable forecasting systems**  
 🌱 Always learning about all things **Data & AI**  
 💬 Reach out to me easily through my LinkedIn
