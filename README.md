@@ -1,7 +1,7 @@
 ### Hi there 👋🏼
 
 🚀 Data Scientist | ML Engineer | AI Innovator  
-🔭 Currently exploring **Time Series Models** & **scalable forecasting systems**  
+🔭 Currently developing a **Production-grade ML System in the MarTech and AdTech space**  
 🌱 Always learning about all things **Data & AI**  
 💬 Reach out to me easily through my LinkedIn
 
